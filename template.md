@@ -10,7 +10,7 @@ audience: end user
 ms.author: MyMSFTAlias (if I work for Microsoft; otherwise edupont)
 ms.date: 10/05/2021
 
----
+----
 # A new capability in [!INCLUDE [d365fin_long](includes/d365fin_long_md.md)]
 
 Snazzy introduction of the capability with plenty of buzzwords. Remember to add See Also links, and to add the new article to the TOC.md file.  
